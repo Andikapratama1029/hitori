@@ -9,10 +9,10 @@ const chalk = require('chalk');
 
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 
-global.owner = ['6282113821188','6281356484612','6285773557984']
+global.owner = ['6285789202053']
 global.packname = 'Bot WhatsApp'
-global.author = 'Nazedev'
-global.botname = 'Naze Bot'
+global.author = '© COPYRIGHT BY DREAM STALKER'
+global.botname = 'NELLY BOT'
 global.listv = ['•','●','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆']
 global.tempatDB = 'database.json'
 global.pairing_code = true
@@ -26,20 +26,20 @@ global.fake = {
 }
 
 global.my = {
-	yt: 'https://youtube.com/c/Nazedev',
-	gh: 'https://github.com/nazedev',
-	gc: 'https://chat.whatsapp.com/Hx9vcBVhbc04KLVGPFtH2R',
+	yt: 'https://dreamstalker.shafe.store',
+	gh: 'https://dreamstalker.shafe.store',
+	gc: 'https://dreamstalker.shafe.store',
 	ch: '120363250409960161@newsletter',
 }
 
 global.limit = {
-	free: 100,
+	free: 20,
 	premium: 999,
 	vip: 'VIP'
 }
 
 global.uang = {
-	free: 10000,
+	free: 1000,
 	premium: 1000000,
 	vip: 10000000
 }
